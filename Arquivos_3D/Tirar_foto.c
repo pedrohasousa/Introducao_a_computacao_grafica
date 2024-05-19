@@ -3,7 +3,6 @@
 //Define a posicao e o angulo de visao da camera a partir de uma mudança de coordenadas, e tira a
 //foto aplicando uma transformacao projetiva no objeto e entao o projetando no anteparo da camera.
 
-//Obs:para explicacoes mais completas, ver arquivo Foto.c
 //Esse programa funciona para tirar foto de dentro dos objetos em alguns casos, mas e inconsistente
 
 #include <stdio.h>
